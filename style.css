@@ -1,5 +1,10 @@
 /* <!-- Categories features section --> */
-.category-img img{
-    width: 120px;
-    height: 120px;
+.category-img img {
+  width: 120px;
+  height: 120px;
+}
+
+/* <!-- Subscribe section --> */
+.subscribe-container {
+  height: 320px;
 }
